@@ -14,4 +14,4 @@ class Solution:
                 high-=1
             else:
                 mid+=1
-                #sort
+                #sort colors
