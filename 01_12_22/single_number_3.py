@@ -14,4 +14,4 @@ class Solution:
                 p=a.index(a[i])
                 m=b[i]
                 l.append(m)     
-        return l
+        return m
